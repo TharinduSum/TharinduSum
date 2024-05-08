@@ -35,9 +35,6 @@ Feel free to reach out if you'd like to connect or collaborate on any projects! 
 ## Get Something Done
 - [Fiverr](https://fiverr.com/your-profile)
 
-## Learn from Me
-- [Udemy](https://udemy.com/your-profile)
-
 ## Support Me
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow)](https://buymeacoffee.com/your-profile)
 
