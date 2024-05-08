@@ -1,16 +1,38 @@
-### Hi there 👋
+# Welcome to My GitHub Page! 👋
 
-<!--
-**TharinduSum/TharinduSum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+I'm a tech enthusiast passionate about exploring new technologies and sharing knowledge with the world. As a full-time Software Engineer, I love writing articles, creating courses, and making YouTube videos to help others learn and grow.
 
-Here are some ideas to get you started:
+## My Stats
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=dark)
+
+## Top Repositories
+- [GCP Serverless Orchestrator](https://github.com/<your-username>/gcp-serverless-orchestrator)
+- [AWS Image Service](https://github.com/<your-username>/aws-image-service)
+- [Pull Request Reports](https://github.com/<your-username>/pull-request-reports)
+- [Copy DynamoDB Table](https://github.com/<your-username>/copy-dynamodb-table)
+- [Qt Auto Translator](https://github.com/<your-username>/qt-auto-translator)
+- [A-Star Algorithm](https://github.com/<your-username>/a-star-algorithm)
+
+## Connect with Me
+- [Portfolio](https://your-portfolio.com)
+- [Personal Blog](https://your-blog.com)
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Stack Overflow](https://stackoverflow.com/users/your-profile)
+- [GitHub](https://github.com/your-username)
+- [Instagram](https://instagram.com/your-profile)
+- [Twitter](https://twitter.com/your-profile)
+- [Facebook](https://facebook.com/your-profile)
+
+## Get Something Done
+- [Fiverr](https://fiverr.com/your-profile)
+
+## Learn from Me
+- [Udemy](https://udemy.com/your-profile)
+
+## Support Me
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow)](https://buymeacoffee.com/your-profile)
