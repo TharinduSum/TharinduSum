@@ -1,6 +1,6 @@
 # Welcome to My GitHub Page! 👋
 
-## Introduction
+## Who am I?
 I'm a tech enthusiast passionate about exploring new technologies and sharing knowledge with the world. As a full-time Software Engineer, I love writing articles, creating courses, and making YouTube videos to help others learn and grow.
 
 ## My Stats
