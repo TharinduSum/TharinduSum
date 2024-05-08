@@ -3,6 +3,16 @@
 ## Who am I?
 I'm a tech enthusiast passionate about exploring new technologies and sharing knowledge with the world. As a full-time Software Engineer, I love writing articles, creating courses, and making YouTube videos to help others learn and grow.
 
+Hello! 👋 I'm Tharindu Sumanarathna, an undergraduate student pursuing a BSc (Hons) degree in Computer Engineering. I am passionate about software engineering and exploring various aspects of technology. Here are some highlights about me:
+
+- 🎓 Currently studying Computer Engineering at University of Jaffna.
+- 💻 Aspiring software engineer with a keen interest in web development, mobile app development, machine learning.
+- 🌟 Enthusiastic learner always seeking opportunities to expand my knowledge and skills.
+- 🚀 Actively involved in projects and internships to gain practical experience in software development.
+- 📚 Constantly exploring new technologies and tools to stay updated with the latest trends in the industry.
+
+Feel free to reach out if you'd like to connect or collaborate on any projects! 😊
+
 ## My Stats
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=dark)
