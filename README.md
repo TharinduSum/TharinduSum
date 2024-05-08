@@ -1,7 +1,6 @@
 # Welcome to My GitHub Page! 👋
 
 ## Who am I?
-I'm a tech enthusiast passionate about exploring new technologies and sharing knowledge with the world. As a full-time Software Engineer, I love writing articles, creating courses, and making YouTube videos to help others learn and grow.
 
 Hello! 👋 I'm Tharindu Sumanarathna, an undergraduate student pursuing a BSc (Hons) degree in Computer Engineering. I am passionate about software engineering and exploring various aspects of technology. Here are some highlights about me:
 
