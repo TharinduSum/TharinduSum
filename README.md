@@ -11,12 +11,7 @@ I'm a tech enthusiast passionate about exploring new technologies and sharing kn
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=dark)
 
 ## Top Repositories
-- [GCP Serverless Orchestrator](https://github.com/<your-username>/gcp-serverless-orchestrator)
-- [AWS Image Service](https://github.com/<your-username>/aws-image-service)
-- [Pull Request Reports](https://github.com/<your-username>/pull-request-reports)
-- [Copy DynamoDB Table](https://github.com/<your-username>/copy-dynamodb-table)
-- [Qt Auto Translator](https://github.com/<your-username>/qt-auto-translator)
-- [A-Star Algorithm](https://github.com/<your-username>/a-star-algorithm)
+
 
 ## Connect with Me
 - [Portfolio](https://your-portfolio.com)
