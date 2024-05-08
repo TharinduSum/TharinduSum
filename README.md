@@ -36,3 +36,6 @@ I'm a tech enthusiast passionate about exploring new technologies and sharing kn
 
 ## Support Me
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow)](https://buymeacoffee.com/your-profile)
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow)](https://buymeacoffee.com/your-profile)
+
