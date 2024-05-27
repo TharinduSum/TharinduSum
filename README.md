@@ -21,11 +21,10 @@ Feel free to reach out if you'd like to connect or collaborate on any projects! 
 
 ## Connect with Me
 - [Portfolio](https://your-portfolio.com)
-- [Personal Blog](https://your-blog.com)
+- [Personal Blog](https://medium.com/@tharindums)
 - [LinkedIn](https://www.linkedin.com/in/tharindu-sumanarathna-75b0b5273)
 - [Stack Overflow](https://stackoverflow.com/users/24711969/tharindu-miniruwan)
-- [GitHub](https://github.com/your-username)
-- [Instagram](https://instagram.com/your-profile)
+- [GitHub](https://github.com/your-TharinduSum)
 - [Twitter](https://twitter.com/your-profile)
 - [Facebook](https://facebook.com/your-profile)
 
