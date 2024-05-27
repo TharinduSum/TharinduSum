@@ -24,7 +24,7 @@ Feel free to reach out if you'd like to connect or collaborate on any projects! 
 - [Personal Blog](https://medium.com/@tharindums)
 - [LinkedIn](https://www.linkedin.com/in/tharindu-sumanarathna-75b0b5273)
 - [Stack Overflow](https://stackoverflow.com/users/24711969/tharindu-miniruwan)
-- [GitHub](https://github.com/your-TharinduSum)
+- [GitHub](https://github.com/TharinduSum)
 - [Twitter](https://twitter.com/your-profile)
 - [Facebook](https://facebook.com/your-profile)
 
