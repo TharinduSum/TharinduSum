@@ -13,14 +13,11 @@ Hello! 👋 I'm Tharindu Sumanarathna, an undergraduate student pursuing a BSc (
 Feel free to reach out if you'd like to connect or collaborate on any projects! 😊
 
 ## My Stats
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=dark)
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=dark)
-
-## Top Repositories
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
 ## Connect with Me
 - [Portfolio](https://your-portfolio.com)
