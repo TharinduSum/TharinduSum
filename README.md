@@ -11,6 +11,6 @@ Feel free to connect or collaborate! 😊
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/tharindu-sumanarathna-75b0b5273)
-- [Portfolio](https://your-portfolio.com)
-- [Personal Blog](https://medium.com/@tharindums)
+- [Medium](https://medium.com/@tharindums)
 - [Stack Overflow](https://stackoverflow.com/users/24711969/tharindu-miniruwan)
+- [Portfolio](https://your-portfolio.com)
