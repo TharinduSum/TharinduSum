@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-Hello! 👋 I'm Tharindu Sumanarathna, a recent Computer Engineering graduate from the University of Jaffna.
+Hi, I'm Tharindu Sumanarathna, a recent Computer Engineering graduate from the University of Jaffna.
 
 - 💻 I’m passionate about software engineering.
 - 🚀 I enjoy building modern and user-friendly web applications.
