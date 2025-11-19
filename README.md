@@ -2,10 +2,10 @@
 
 Hi, I'm Tharindu Sumanarathna, a recent Computer Engineering graduate from the University of Jaffna.
 
-- 💻 I’m passionate about software engineering.
-- 🚀 I enjoy building modern and user-friendly web applications.
-- 🌱 I love learning new technologies and improving my skills.
-- 🔧 I enjoy working on real-world problems and creating practical solutions.
+- I’m passionate about software engineering.
+- I enjoy building modern and user-friendly web applications.
+- I love learning new technologies and improving my skills.
+- I enjoy working on real-world problems and creating practical solutions.
 
 Feel free to connect or collaborate! 😊
 
