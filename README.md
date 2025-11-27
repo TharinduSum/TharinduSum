@@ -13,4 +13,4 @@ Feel free to connect or collaborate! 😊
 - [LinkedIn](https://www.linkedin.com/in/tharindu-sumanarathna-75b0b5273)
 - [Medium](https://medium.com/@tharindums)
 - [Stack Overflow](https://stackoverflow.com/users/24711969/tharindu-miniruwan)
-- [Portfolio](https://your-portfolio.com)
+- [Portfolio](https://tharindusum.vercel.app)
